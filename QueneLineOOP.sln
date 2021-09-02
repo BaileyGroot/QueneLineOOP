@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueneLineOOP", "QueneLineOOP\QueneLineOOP.csproj", "{E1B814EE-0C97-436A-91E1-A41C3D682C3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1B814EE-0C97-436A-91E1-A41C3D682C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B814EE-0C97-436A-91E1-A41C3D682C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B814EE-0C97-436A-91E1-A41C3D682C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B814EE-0C97-436A-91E1-A41C3D682C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA80BCEE-1B39-4E52-9056-D3B5F5CDB75D}
+	EndGlobalSection
+EndGlobal
